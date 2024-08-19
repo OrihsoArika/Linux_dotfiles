@@ -1,0 +1,19 @@
+configuration {
+    show-icons: true;
+    font: "JetBrainsMono Nerd Font 12";
+    icon-theme: "Papirus-Dark";
+
+    terminal: "alacritty";
+
+    display-ssh:    "󰣀 ssh:";
+    display-run:    "󱓞 run:";
+    display-drun:   "󰣖 drun:";
+    display-window: "󱂬 window:";
+    display-combi:  "󰕘 combi:";
+    display-filebrowser: "󰉋 filebrowser:";
+
+    dpi: 120;
+}
+
+//@theme "~/.config/rofi/gruvbox-material.rasi"
+@theme "gruvbox-dark-hard.rasi"
