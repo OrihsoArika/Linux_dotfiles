@@ -25,7 +25,7 @@ I don't finished this yet.
 To install just use your terminal and put this:
 
 ``` shell
-cd '~/Qtile Gruvbox hard dotfiles'
+cd '~/Qtile-Gruvbox-hard-dotfiles'
 
 stow 'folder of the app you want to stow'
 ```
