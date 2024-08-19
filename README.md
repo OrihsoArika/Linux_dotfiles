@@ -7,12 +7,11 @@ I don't finished this yet.
 ## Dependencies
 
 - Papirus icons.
-- JetBrains Nerd fonts
+- JetBrains Nerd fonts (nerd fonts)
 - Cascadia fonts.
 - Rofi.
 - Dunst.
 - Network Manager applet (nm-applet)
-- Qtile default widgets.
 
 ## Affected apps
 
