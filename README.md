@@ -6,7 +6,8 @@ I don't finished this yet.
 
 ## Dependencies
 
-- Papirus icons
+- Papirus icons.
+- JetBrains Nerd fonts
 - Cascadia fonts.
 - Rofi.
 - Dunst.
@@ -19,10 +20,12 @@ I don't finished this yet.
 - Alacritty.
 - Rofi.
 
-## Install
+## Installation
 
-To install just:
-```
-cd ~/Qtile Gruvbox hard dotfiles
-stow <folder that you want to stow>
+To install just use your terminal and put this:
+
+``` shell
+cd '~/Qtile Gruvbox hard dotfiles'
+
+stow 'folder of the app you want to stow'
 ```
