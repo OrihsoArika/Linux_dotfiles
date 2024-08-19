@@ -4,6 +4,8 @@ Qtile with Gruvbox hard color scheme dotfiles
 
 I don't finished this yet.
 
+btw, first time i do this so tell me if something is not working as exepted.
+
 ## Dependencies
 
 - Papirus icons.
